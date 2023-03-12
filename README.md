@@ -1,12 +1,3 @@
-INSTRUÇÕES PARA INICIALIZAÇÃO DO CRAWLER
-
-1 -> Instalar o Xampp
-2 -> Copiar a pasta crawler para o directorio C:\xampp\htdocs
-3 -> Iniciar o Xampp 
-4 -> Importar a base de dados contida na pasta db no MyPHPAdmin http://localhost/phpmyadmin/
-5 -> Abrir no browser o endereço http://localhost/ ou http://127.0.0.1
-
-
 # <p align="center">Web Crawler</p>
 
 ![crawlert_1](https://user-images.githubusercontent.com/92939227/224534519-a33732df-6738-40cd-8f93-6e39a559593f.png)
@@ -50,7 +41,7 @@ INSTRUÇÕES PARA INICIALIZAÇÃO DO CRAWLER
 - <p>Iniciar o Xampp</p>
 - <p>Criar a base de dados novacrawler em MyPHPAdmin http://localhost/phpmyadmin/</p>
 - <p>Importar as tabelas da pasta db para a base de dados criada</p> 
-- <p>Abrir no browser o endereço http://localhost/Crawler/pagina_inical.php ou http://127.0.0.1:numero da porta</p>
+- <p>Abrir no browser o endereço http://localhost/Crawler/pagina_inical.php ou http://127.0.0.1: numero da porta</p>
 ---
 
 ## Autores
