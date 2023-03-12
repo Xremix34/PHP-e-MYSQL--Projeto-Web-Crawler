@@ -15,7 +15,7 @@
 
 ## Descrição
 
-> Projeto desenvolvido por mais um integrante em PHP e MySql, que permite fazer a captura de informações de um determinada site http guardando numa base de dados MySql todo o seu texto e imagens. 
+> Projeto desenvolvido por mais um integrante de grupo feito em PHP e MySql, que permite fazer a captura de informações de um determinada site http guardando numa base de dados MySql todo o seu texto e imagens. 
  
 #### Tecnologias e Ferramentas
 
