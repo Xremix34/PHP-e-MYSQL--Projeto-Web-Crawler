@@ -45,11 +45,11 @@ INSTRUÇÕES PARA INICIALIZAÇÃO DO CRAWLER
 
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
-```git clone https://github.com/Xremix34/Tkinter--Sucatas-Companhia.git```
-- <p>Abrir a pasta Projeto.</p>
-- <p>Pressionando a tecla SHIFT do teclado clicando com o botão do lado direito do rato e escolher a opção Abrir janela do PowerShell aqui.</p>
-- <p>Executar o comando</p> 
-`python Menu_Registro.py`
+```git clone https://github.com/Xremix34/PHP-e-MYSQL--Projeto-Web-Crawler.git```
+- <p>Copiar pasta do projeto para o directorio C:\xampp\htdocs</p>
+- <p>Iniciar o Xampp</p>
+- <p>Criar a base de dados novacrawler em MyPHPAdmin http://localhost/phpmyadmin/</p>
+- <p>Importar as tabelas da pasta db para a base de dados criada</p> 
 
 ---
 
