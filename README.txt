@@ -1,3 +1,10 @@
+INSTRUÇÕES PARA INICIALIZAÇÃO DO CRAWLER
+
+1 -> Instalar o Xampp
+2 -> Copiar a pasta crawler para o directorio C:\xampp\htdocs
+3 -> Iniciar o Xampp 
+4 -> Importar a base de dados contida na pasta db no MyPHPAdmin http://localhost/phpmyadmin/
+5 -> Abrir no browser o endereço http://localhost/ ou http://127.0.0.1
 # <p align="center">Web Crawler</p>
 
 ![crawlert_1](https://user-images.githubusercontent.com/92939227/224533574-cb7f9173-0e52-4efe-861c-15988717a69f.png)
