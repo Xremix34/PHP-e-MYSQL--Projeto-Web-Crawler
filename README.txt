@@ -8,7 +8,7 @@ INSTRUÇÕES PARA INICIALIZAÇÃO DO CRAWLER
 
 # <p align="center">Web Crawler</p>
 
-![sucata](https://user-images.githubusercontent.com/92939227/224504155-a2a1c799-f96c-477f-9cb4-e5cec8943995.png)
+![crawlert_1](https://user-images.githubusercontent.com/92939227/224533574-cb7f9173-0e52-4efe-861c-15988717a69f.png)
 
 ---
 
@@ -23,19 +23,21 @@ INSTRUÇÕES PARA INICIALIZAÇÃO DO CRAWLER
 
 ## Descrição
 
-> Pequeno projeto desenvolvido no curso Jovem + Digital Python em modo gráfico utilizando o Tkinter que permite adicionar, atualizar, remover, consultar através de um id para uma empresa Sucatas e Companhia fictícia. 
+> Projeto desenvolvido por mais um integrante em PHP e MySql, que permite fazer a captura de informações de um determinada site http guardando numa base de dados MySql todo o seu texto e imagens. 
  
 #### Tecnologias e Ferramentas
 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![tkinter](https://user-images.githubusercontent.com/92939227/224504811-6b934630-1b29-4a24-b571-474da08ba7f7.jpeg)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [Voltar ao Início](#sucatas)
 
 ---
 
 ## Requisitos
-- Python(https://www.python.org/) 
+- XAMPP(https://www.apachefriends.org/) 
 ---
 
 ## Como utilizar
